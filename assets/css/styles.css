@@ -626,7 +626,9 @@ body.dark-theme {
 .projects__container {
   overflow: initial;
 }
-
+#xyz{
+  margin-bottom: 2rem;
+}
 .projects__content {
   display: grid;
   justify-content: center;
@@ -638,7 +640,10 @@ body.dark-theme {
   border-radius: .75rem;
   margin-bottom: 1.25rem;
 }
-
+.projects_subheading{
+  text-align: center;
+  margin-bottom: 2rem;
+}
 .projects__subtitle {
   font-size: var(--small-font-size);
   color: var(--text-color-light);
@@ -665,7 +670,7 @@ body.dark-theme {
 }
 
 .projects__button:hover i {
-  transform: translateY(.25rem);
+  transform: translateX(.25rem);
 }
 
 
