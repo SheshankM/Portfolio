@@ -908,7 +908,7 @@ body.dark-theme {
   column-gap: 1.25rem;
 }
 
-.footer__social-link {
+.footer__social-links {
   font-size: 1.25rem;
   color: var(--title-color);
   transition: tranform .3s;
