@@ -908,13 +908,13 @@ body.dark-theme {
   column-gap: 1.25rem;
 }
 
-.footer__social-links {
+.footer__social-links{
   font-size: 1.25rem;
   color: var(--title-color);
   transition: tranform .3s;
 }
 
-.footer__social-link:hover {
+.footer__social-links:hover {
   transform: translateY(-.15rem);
 }
 
